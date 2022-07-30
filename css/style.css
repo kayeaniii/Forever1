@@ -1,0 +1,150 @@
+#Title
+    {
+        background-color: #3AAFA9;
+        padding:5% 15%;
+    }
+    h1
+    {
+        color:black;
+        font-family: 'Anton',sans-serif;
+        font-size: 100px;
+    }
+    .images{
+        text-align: center;
+    }
+    .navbar{
+        background-color: #3AAFA9;
+    }
+    .col-lg-6{
+        padding-top: 12%;
+    }
+    .navbar-brand{
+        font-family: 'Anton';
+        font-size: 4rem;
+        color: black;
+    }
+    .nav-item{
+        padding:0 18px;
+        color: gray;
+    }
+    .nav-link{
+        font-size: 1rem;
+        color: gray;
+    }
+    .download-btn{
+        margin: 5% 5% 0 0;
+    }
+    @media (max-width:1028px){
+        #Title{
+            text-align: center;
+        }
+        .titleimg{
+            text-align: center;
+            height: 300px;
+            font-weight: 330px;
+        }
+    }
+
+    .feature-container
+    {
+        padding: 10% 15% 10%;
+        text-align: center;
+        background-color: #5FB6B1;
+    }
+
+    h3{
+        font-family:'Open Sans' ,sans-serif;
+        color: black;
+    } 
+    p{
+        color: black;
+        font-family: 'Open Sans' ,sans-serif;
+        font-size: 0.8rem;
+    }
+    .feature-title{
+        padding: 5% 5%;
+        text-align: center;
+    }
+    .iconf{
+        padding-bottom: 12px;
+    }
+    @media (max-width:1024px){
+        .colm
+        padding: 40px;
+    }
+
+    #testimonials{
+        text-align: center;
+        padding: 5% 17%;
+        background-color: #3AAFA9;
+    }
+
+h2{
+    font-family: 'Open Sans' ,sans-serif;
+    color: black;
+    font-weight: 100;
+}
+.testimonialtitle{
+    padding: 5% 5%;
+}
+.testimonial-text{
+    font-size: 1.7rem;
+    padding-bottom: 30px;
+    line-height: 50px;
+    font-family: 'Open Sans' ,sans-serif;
+    color: black;
+}
+.testimonial-image{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+#press{
+    text-align: center;
+    background-color: #3AAFA9;
+    padding-bottom: 50px;
+}
+.press-logo{
+    height: 70px;
+    width: 170px;
+    margin-left: 50px;
+}
+.pricing-title{
+padding: 5% 0 0 0;
+text-align: center;
+background-color: #5FB6B1;
+;
+}
+h4{
+    font-family: 'Open Sans' ,sans-serif;
+    color: black;
+    font-size: 1rem;
+}
+.cardcontainer{
+    text-align: center;
+    padding: 3% 13% 5% 13%;
+    background-color: #5FB6B1;
+}
+.card{
+    padding: 5% 5%;
+    margin-bottom: 6%;
+}
+
+#cta{
+    background-color: #3AAFA9;
+    padding: 10% 15% 10% 15%;
+    text-align: center;
+}
+.titlecta{
+    padding-bottom: 20px;
+}
+.cta-btn{
+    margin-left: 10px;
+    padding: 3px;
+}
+
+#footer{
+    text-align: center;
+    background-color:#5FB6B1;
+    padding: 3px;
